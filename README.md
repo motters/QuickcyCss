@@ -10,18 +10,26 @@ That why i created quickcyCss!
 Baiscally when rushing and taking time in making websites you often throw in paddings, margins, font-sizes that are individual to that specific div or span etc
 
 When rushing a website why do this 
-<code><div id="text">some text</div></code>
+	```html
+	<div id="text">some text</div>
+	```
 Then to do this in the style sheet
-<code>#text{
-	padding-top:10px;
-	padding-bottom:20px;
-	width:100%
-}</code>
+	```css
+	#text{
+		padding-top:10px;
+		padding-bottom:20px;
+		width:100%
+	}
+	```
 
 When you should do
-<code><div class="padding-bottom-20 padding-top-10 width-per-100">some text</div></code>
+	```html
+	<div class="padding-bottom-20 padding-top-10 width-per-100">some text</div>
+	```
 DONE! It saves me time and its easier to play around with paddings etc as i can just quick alter the class
-<code><div class="padding-bottom-24 padding-top-12 width-per-50">some text</div></code>
+	```html
+	<div class="padding-bottom-24 padding-top-12 width-per-50">some text</div>
+	```
 
 
 This was not make for proffesion web design but for them occasions where you have no time!
