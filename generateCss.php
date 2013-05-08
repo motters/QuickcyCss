@@ -3,6 +3,11 @@
 
 class quickcyCss{
 
+
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $marginTop = array(
 			'function' => 'margin-top',
 			'class' => 'margin-top-{number}',
@@ -12,6 +17,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $marginBottom = array(
 			'function' => 'margin-bottom',
 			'class' => 'margin-bottom-{number}',
@@ -21,6 +30,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $marginRight = array(
 			'function' => 'margin-right',
 			'class' => 'margin-right-{number}',
@@ -30,6 +43,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $marginLeft = array(
 			'function' => 'margin-left',
 			'class' => 'margin-left-{number}',
@@ -39,6 +56,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $paddingTop = array(
 			'function' => 'padding-top',
 			'class' => 'padding-top-{number}',
@@ -48,6 +69,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $paddingBottom = array(
 			'function' => 'padding-bottom',
 			'class' => 'padding-bottom-{number}',
@@ -57,6 +82,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $paddingRight = array(
 			'function' => 'padding-right',
 			'class' => 'padding-right-{number}',
@@ -66,6 +95,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $paddingLeft = array(
 			'function' => 'padding-left',
 			'class' => 'padding-left-{number}',
@@ -75,6 +108,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $width = array(
 			'function' => 'width',
 			'class' => 'width-{number}',
@@ -84,6 +121,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $marginTopPer = array(
 			'function' => 'margin-top',
 			'class' => 'margin-top-per-{number}',
@@ -93,6 +134,10 @@ class quickcyCss{
 			'to' => 100
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $marginBottomPer = array(
 			'function' => 'margin-bottom',
 			'class' => 'margin-bottom-per-{number}',
@@ -102,6 +147,10 @@ class quickcyCss{
 			'to' => 100
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $marginRightPer = array(
 			'function' => 'margin-right',
 			'class' => 'margin-right-per-{number}',
@@ -111,6 +160,10 @@ class quickcyCss{
 			'to' => 100
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $marginLeftPer = array(
 			'function' => 'margin-left',
 			'class' => 'margin-left-{number}',
@@ -120,6 +173,10 @@ class quickcyCss{
 			'to' => 1200
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $paddingTopPer = array(
 			'function' => 'padding-top',
 			'class' => 'padding-top-per-{number}',
@@ -129,6 +186,10 @@ class quickcyCss{
 			'to' => 100
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $paddingBottomPer = array(
 			'function' => 'padding-bottom',
 			'class' => 'padding-bottom-per-{number}',
@@ -138,6 +199,10 @@ class quickcyCss{
 			'to' => 100
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $paddingRightPer = array(
 			'function' => 'padding-right',
 			'class' => 'padding-right-per-{number}',
@@ -147,6 +212,10 @@ class quickcyCss{
 			'to' => 100
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $paddingLeftPer = array(
 			'function' => 'padding-left',
 			'class' => 'padding-left-per-{number}',
@@ -156,6 +225,10 @@ class quickcyCss{
 			'to' => 100
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $widthPer = array(
 			'function' => 'width',
 			'class' => 'width-per-{number}',
@@ -165,6 +238,10 @@ class quickcyCss{
 			'to' => 100
 		);
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $fontSize = array(
 			'function' => 'font-size',
 			'class' => 'font-size-{number}',
@@ -174,23 +251,20 @@ class quickcyCss{
 			'to' => 500
 		);	
 
+	/**
+	 * Css Dafult change to generate your own custome QuickcyCss stylesheet
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	static private $clear = array(
 			'class' => '.clear || .clearfix:before, .clearfix:after || .clearfix:after',
 			'function' => 'clear',
 			'value' => '*zoom: 1; || display: table;line-height: 0; content: ""; ||  clear: both;'
 		);
 
-
-	public function setSettings($infoArray){
-		
-
-	} 
-	
-	public function setOutput(){
-
-
-	}
-
+	/**
+	 * Compiles all the css info a output
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	public function run(){
 		$return = '';
 		//px
@@ -220,6 +294,10 @@ class quickcyCss{
 		return $return;
 	}
 
+	/**
+	 * Compiles most the css that is to do with numbers 
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	public function generateLoop($info){
 		$return = '';
 		for($i=$info['from']; $i<=$info['to']; $i = $i+$info['steps']){
@@ -230,6 +308,10 @@ class quickcyCss{
 		return $return;
 	}
 
+	/**
+	 * Complies small amount more complexe css
+	 * @author Sam Mottley (info@sammottley.co.uk)
+	 */
 	public function copilefunctions($info){
 		$retrun = '';
 		$class = explode('||', $info['class']);
@@ -242,6 +324,9 @@ class quickcyCss{
 		return $retrun;
 	}
 }
+
+//Load the class
 $css = new quicklyCss;
+//Simpally echo out the css code
 echo $css->run();
 ?>
