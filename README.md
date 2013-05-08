@@ -42,7 +42,7 @@ Inlcude the style sheet in your html page
 Then simply use it here are some examples
 
 	<div class="width-200">This is a 200px width div</div>
-	<div class="width-per-50">This is a 20% width div</div>
+	<div class="width-per-50">This is a 50% width div</div>
 	<div class="padding-bottom-24">Div with 24px padding bottom</div>
 	<div class="padding-bottom-per-20">Div with 20% padding bottom</div>
 	<div class="clear">The usual clearfix</div>
