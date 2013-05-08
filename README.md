@@ -34,6 +34,21 @@ It saves me time and its easier to play around with as i can just quickly alter 
 	
 	<div class="padding-bottom-24 padding-top-12 width-per-50">some text</div>
 
+##How to use
+Simple you can grab the default generated css files in the git repo or make you own custom onces throughts the php generation files.
+
+Inlcude the style sheet in your html page
+
+Then simply use it here are some examples
+
+	<div class="width-200">This is a 200px width div</div>
+	<div class="width-per-50">This is a 20% width div</div>
+	<div class="padding-bottom-24">Div with 24px padding bottom</div>
+	<div class="padding-bottom-per-20">Div with 20% padding bottom</div>
+	<div class="clear">The usual clearfix</div>
+	<div class="font-size-20">font size 20 in this div</div>
+	<div class="width-200 font-size-18 padding-bottom-10">200px div, font size 18px, 10px padding bottom/div>
+
 ##Proffessional Disclaimer
 This was not made for proffesion web design and development but for them occasions where you have no time and the quality of code does not matter!
 
