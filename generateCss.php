@@ -171,7 +171,7 @@ class quickcyCss{
 			'steps' => 10,
 			'from' => 0,
 			'unit' => 'px',
-			'to' => 1200
+			'to' => 500
 		);	
 
 	static private $clear = array(
