@@ -12,13 +12,10 @@ Baiscally when rushing and taking time in making websites, you often throw in pa
 
 So why do this 
 
-	```
 	<div id="text">some text</div>
-	```
 
 AND Then to do this in the style sheet
 
-	```
 	#text{
 
 		padding-top:10px;
@@ -28,20 +25,15 @@ AND Then to do this in the style sheet
 		width:100%
 
 	}
-	```
 
 When you could do this
 
-	```
 	<div class="padding-bottom-20 padding-top-10 width-per-100">some text</div>
-	```
 
 It saves me time and its easier to play around with as i can just quickly alter the class
 	
-	```
 	<div class="padding-bottom-24 padding-top-12 width-per-50">some text</div>
-	```
 
 ##Proffessional Disclaimer
-This was not make for proffesion web design and development but for them occasions where you have no time and the quality of code does not matter!
+This was not made for proffesion web design and development but for them occasions where you have no time and the quality of code does not matter!
 
